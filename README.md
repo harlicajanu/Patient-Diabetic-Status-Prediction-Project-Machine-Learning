@@ -1,10 +1,11 @@
 # Diabetic Status Prediction Project
 
-This project predicts the diabetic status of patients based on their health information using machine learning techniques.
+This project aims to predict the diabetic status of patients based on their health information using machine learning techniques. The prediction is binary, classifying patients as either diabetic (1) or non-diabetic (0) based on various diagnostic measurements.
 
-## Overview
+## Project Overview
 
-The goal is to develop a model that accurately classifies whether a patient is diabetic or not based on diagnostic measurements.
+The dataset used for this project is the PIMA Indians Diabetes Database, originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The dataset includes diagnostic measurements for several hundred patients, which are used to train and evaluate machine learning models.
+
 
 ### Key Steps
 
